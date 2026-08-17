@@ -29,8 +29,8 @@ I focus on maintaining accurate books, optimizing cash flow, and utilizing moder
 - 🎓 B.Sc. Chemistry, Dagon University
 
 ### 📫 How to reach me
-- **LinkedIn:** [www.linkedin.com/in/muyarmoe2794]-(https://www.linkedin.com/in/muyarmoe2794/)
-- **Email:** [muyarmoe2714@gmail.com](mailto:muyarmoe2794@gmail.com) 
+- **LinkedIn:** [www.linkedin.com/in/muyarmoe2794]_(https://www.linkedin.com/in/muyarmoe2794/)
+- **Email:** [muyarmoe2714@gmail.com](mailto:muyarmoe2714@gmail.com) 
 
 ---
 *"Combining traditional accounting precision with modern data analytics to drive strategic business decisions."*
